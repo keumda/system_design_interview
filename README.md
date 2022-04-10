@@ -1,7 +1,7 @@
 # system_design_interview
 Study notes for a book, System Design Interview by Alex Yu
 
-Method using three colors (http://egloos.zum.com/agile/v/3684946)
+Method using three color points (http://egloos.zum.com/agile/v/3684946)
 
 🔴 RED means 'key point' (only once per page)<br>
 🔵 BLUE means 'important'<br>
